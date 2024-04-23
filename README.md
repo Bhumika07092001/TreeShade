@@ -1,3 +1,10 @@
+#GUI#
+
+1.![Screenshot (537)](https://github.com/Bhumika07092001/TreeShade/assets/109783089/51cdf5c5-e438-476f-9b06-8ed6c8a8ca9f)
+2.![Screenshot (536)](https://github.com/Bhumika07092001/TreeShade/assets/109783089/6edeb430-04b4-4d24-8df9-6301e6e4b566)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
