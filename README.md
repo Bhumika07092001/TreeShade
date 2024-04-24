@@ -1,7 +1,15 @@
-#GUI#
+##Snapshots
 
-1.![Screenshot (537)](https://github.com/Bhumika07092001/TreeShade/assets/109783089/51cdf5c5-e438-476f-9b06-8ed6c8a8ca9f)
-2.![Screenshot (536)](https://github.com/Bhumika07092001/TreeShade/assets/109783089/6edeb430-04b4-4d24-8df9-6301e6e4b566)
+1.![Screenshot (538)](https://github.com/Bhumika07092001/TreeShade/assets/109783089/18583109-8e7f-48fd-9208-cf24a6e53c77)
+
+2.![Screenshot (540)](https://github.com/Bhumika07092001/TreeShade/assets/109783089/bb8bc0b3-058a-4535-b808-3ad42081f86a)
+
+3.![Screenshot (541)](https://github.com/Bhumika07092001/TreeShade/assets/109783089/2b76af12-016e-4e48-b3d9-4388771585fe)
+
+4.![Screenshot (542)](https://github.com/Bhumika07092001/TreeShade/assets/109783089/e633b917-d4d3-4c6c-b0c9-c05ae957b7c9)
+
+
+
 
 
 
