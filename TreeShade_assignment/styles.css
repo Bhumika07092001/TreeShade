@@ -1,0 +1,44 @@
+.editor-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0, auto;
+}
+
+#editor {
+  border: 1px solid #ccc;
+  height: 85vh;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 5px, solid black;
+}
+
+.format-options button {
+  margin-right: 10px;
+}
+
+button {
+  padding: 8px 12px;
+  margin: 3px;
+  background-color: #4d4d4e;
+  border-radius: 5px;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+.pdf-btn {
+  padding: 8px 12px;
+  margin: 3px;
+  background-color: #0f7506;
+  border-radius: 5px;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
