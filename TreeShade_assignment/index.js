@@ -16,7 +16,7 @@ function generatePDF() {
   const doc = new jsPDF();
   const text = document.getElementById("editor").innerHTML;
 
-  doc.setMargins(10, 10, 10, 10);
+  doc.setMargins(leftMargin, topMargin, rightMargin, bottomMargin);
   doc.fromHTML(text, 15, 15);
   doc.save("formatted_text.pdf");
 }
